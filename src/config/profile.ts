@@ -21,16 +21,17 @@
 // ─── A. Identity & Bio ───────────────────────────────────────────────────────
 
 export const profile = {
-  name: "Vaibhav Mahindru",
-  title: "Software Developer (Backend) + Data Engineer",
+  name: "Sarthak Handa",
+  title: "Business Intelligence & Automation Consultant",
   photo: "/passport.png",
-  altPhoto: "/alt-photo.png", // magnifying glass hover alternate
-  location: "New Delhi, India",
-  tagline: "Backend · Data Engineering · Automation",
-  bio: "Backend-focused software developer and startup founder building scalable APIs, automated data pipelines, and cloud-native systems. I specialize in backend architecture, data engineering, and intelligent automation. Oh, and I do frontend too this portfolio didn't mass produce itself.",
+  altPhoto: "/alt-photo.png",
+  location: "Faridabad, Haryana, India",
+  tagline: "BI Systems · API Integrations · Enterprise Automation",
+  bio:
+    "Business Intelligence & Automation Consultant with 3+ years of experience designing enterprise-grade reporting ecosystems, API-integrated workflows, and audit-safe planning systems. I build full operational systems — not just dashboards — combining Power BI modeling, automation engines, and web-based interfaces to transform fragmented data into structured, decision-ready intelligence.",
   resumeBio:
-    "Software Developer specializing in backend engineering and data systems design with 3+ years of hands-on experience building production APIs, automation pipelines, data ingestion systems, and cloud-native platforms. Founder of MoveAI, a logistics SaaS platform with 57+ REST endpoints, 65+ PostgreSQL models, and 9+ scheduled batch pipelines. Previously worked on enterprise DataOps at AIS (Azure migration, ETL pipelines, Power BI dashboards), backend engineering at Satyacom (Node.js APIs, schema design, background job processors), and data-focused systems strategy at Plaksha University (Python ETL, Power Automate, reporting automation). Also designs and delivers production websites using React, Tailwind CSS, and Framer Motion. Strong experience in Node.js, Python, PostgreSQL, AWS, and system design. Passionate about building reliable, scalable systems that transform real-world data into structured, actionable insights.",
-  status: "Open to backend and data engineering opportunities",
+    "Business Intelligence & Systems Consultant with 3+ years of experience building enterprise analytics platforms, automation workflows, and scalable reporting ecosystems. Specialized in Power BI (DAX, star schema modeling), REST API integrations, and audit-safe planning systems. Replaced third-party BI tools with custom React-based dashboards and integrated Microsoft Graph API, Twilio, and automation workflows to enable real-time reporting and structured communication. Strong systems thinker focused on designing connected data environments that reduce manual dependency and improve operational clarity.",
+  status: "Open to BI Engineering, Data & Automation, and Enterprise Systems roles",
   version: "5.0",
 
   // ─── B. Links ────────────────────────────────────────────────────────────────
